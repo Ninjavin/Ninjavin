@@ -28,7 +28,9 @@
 
 ---
 
-<img align="left" alt="Ninjavin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ninjavin&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ninjavin&layout=compact)](https://github.com/Ninjavin/github-readme-stats)
+
+<img align="left" alt="Ninjavin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ninjavin&count_private=true&theme=cobalt&show_icons=true&hide_border=true" />
 
 [website]: https://github.com/Ninjavin
 [twitter]: https://twitter.com/vineeta_vj
