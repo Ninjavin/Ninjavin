@@ -32,4 +32,4 @@
 
 [website]: https://github.com/Ninjavin
 [twitter]: https://twitter.com/vineeta_vj
-[instagram]: https://instagram.com/ninjavin
+[instagram]: https://instagram.com/n.i.n.j.a.v.i.n
