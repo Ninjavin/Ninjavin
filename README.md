@@ -32,6 +32,6 @@
 
 <img align="left" alt="Ninjavin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ninjavin&count_private=true&theme=cobalt&show_icons=true&hide_border=true" />
 
-[website]: https://github.com/Ninjavin
+[website]: https://ninjavin.github.io/
 [twitter]: https://twitter.com/vineeta_vj
 [instagram]: https://instagram.com/n.i.n.j.a.v.i.n
