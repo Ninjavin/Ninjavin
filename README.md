@@ -4,9 +4,8 @@
 
 ### Connect with me:
 
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Gmail Badge](https://img.shields.io/badge/-vinjain2006@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vinjain2006@gmail.com)](mailto:vinjain2006@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Ninjavin-14161A?style=for-the-badge&logo=PureScript&logoColor=white&link=https://ninjavin.github.io/)](https://ninjavin.github.io/)
 
 <br />
 
@@ -34,4 +33,4 @@
 
 [website]: https://ninjavin.github.io/
 [twitter]: https://twitter.com/vineeta_vj
-[instagram]: https://instagram.com/n.i.n.j.a.v.i.n
+[instagram]: https://instagram.com/n.i.n.j.a.v.i
