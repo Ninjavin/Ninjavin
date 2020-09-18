@@ -1,4 +1,5 @@
 ### Hi there, I'm Vineeta - aka [Ninjavin][website] 👋
+<img src="https://komarev.com/ghpvc/?username=Ninjavin&label=MyProfileViews&color=blue&style=plastic%22%20alt=%22Ninjavin" />
 
 ## I'm a MERN Stack Developer!
 
