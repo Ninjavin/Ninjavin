@@ -43,3 +43,6 @@ I'm always open to interesting conversations and collaborations. Feel free to re
 - Twitter: [@vineeta_vj](https://twitter.com/vineeta_vj)
 
 Let's embark on a stealthy coding adventure together! 🌞🎶😄
+
+![Overview](https://github.com/Ninjavin/github-stats/blob/master/generated/overview.svg)
+![Language Stats](https://github.com/Ninjavin/github-stats/blob/master/generated/languages.svg)
