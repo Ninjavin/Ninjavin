@@ -44,5 +44,6 @@ I'm always open to interesting conversations and collaborations. Feel free to re
 
 Let's embark on a stealthy coding adventure together! 🌞🎶😄
 
-![Overview](https://github.com/Ninjavin/github-stats/blob/master/generated/overview.svg)
-![Language Stats](https://github.com/Ninjavin/github-stats/blob/master/generated/languages.svg)
+![Ninjavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ninjavin&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ninjavin&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
