@@ -10,7 +10,7 @@
 
 🌱 I'm always eager to learn and keep up with the latest trends in the tech world. I believe in the power of open source and love to contribute to projects that inspire me.
 
-💼 Currently, I'm honing my ninja skills full-time at a PBC as a Associate Software Developer
+💼 Currently, I'm honing my ninja skills full-time at Oracle as an MTS (SDE-2).
 
 🚀 In my free time, I enjoy working on personal projects, writing technical articles, and experimenting with new technologies.
 
