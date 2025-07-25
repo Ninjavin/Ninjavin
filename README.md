@@ -24,10 +24,11 @@
 
 Here are the tools and skills in my arsenal:
 
-- 💻 Programming Languages: **JavaScript**, **C++**
-- 🌐 Web Technologies: **HTML5**, **CSS3**, **React**, **Node.js**, **Express.js**, **Spring Boot**
+- 💻 Programming Languages: **JavaScript**, **Java**, **C++**, **PHP**
+- 🌐 Web Technologies: **HTML5**, **CSS3**, **React**, **Oracle JET**, **Next.js**, **Node.js**, **Express.js**, **Spring Boot**
 - 📦 Databases: **MySQL**, **MongoDB**
 - 📱 Mobile App Development: **React Native**
+- 👩‍💻 Messaging & Architecture: **Kafka**, **Websockets**, **Microservices**
 - 🛠️ Tools: **VS Code**, **Git**, **GitHub**, **Docker**, **Kubernetes**
 - 🐧 Comfortable at Linux
 
