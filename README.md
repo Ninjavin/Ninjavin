@@ -8,11 +8,13 @@
 
 👋 Hey there, I'm **Ninjavin**, a passionate software developer with a knack for ninja-level problem-solving and coding skills. Just like a stealthy ninja, I silently debug code and swiftly execute projects.
 
-🌱 I'm always eager to learn and keep up with the latest trends in the tech world. I believe in the power of open source and love to contribute to projects that inspire me.
+🌱 I believe in an AI-first approach to coding, and I constantly experiment with LLMs (yep, I’ve played with ChatGPT, Groq, Ollama, Cursor, Windsurf… basically every shiny new thing in AI).
 
 💼 Currently, I'm honing my ninja skills full-time at Oracle as an MTS (SDE-2).
 
 🚀 In my free time, I enjoy working on personal projects, writing technical articles, and experimenting with new technologies.
+
+💻 Vibe-coding is my therapy. Whether it’s side projects, experimenting with new frameworks, or automating stuff with AI, I enjoy tinkering and creating.
 
 ✍️ Documenting my learnings at [Engineer's Cookbook](https://ninjavin.gitbook.io/engineers-cookbook/)
 
@@ -30,6 +32,7 @@ Here are the tools and skills in my arsenal:
 - 📱 Mobile App Development: **React Native**
 - 👩‍💻 Messaging & Architecture: **Kafka**, **Websockets**, **Microservices**
 - 🛠️ Tools: **VS Code**, **Git**, **GitHub**, **Docker**, **Kubernetes**
+- 🤖 AI & LLMs Playground: **Cursor**, **Windsurf**, **Groq**
 - 🐧 Comfortable at Linux
 
 ## Projects
